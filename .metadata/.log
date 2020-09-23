@@ -118,3 +118,13 @@ java.lang.Exception: The project description file (.project) for 'Operator_Demo'
 	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:108)
 	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter$1.run(WorkbenchRunnableAdapter.java:121)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 2 2 2020-09-23 11:38:36.765
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-09-23 11:38:36.765
+!MESSAGE The project description file (.project) for 'Operator_Demo' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2020-09-23 11:44:21.645
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-09-23 11:44:21.645
+!MESSAGE The project description file (.project) for 'Operator_Demo' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.

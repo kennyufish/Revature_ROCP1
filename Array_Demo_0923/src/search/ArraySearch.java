@@ -17,6 +17,7 @@ public class ArraySearch {
 			} 
 		}
 		
+		
 		//search for prime numbers
 		
 	}
