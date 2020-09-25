@@ -1,25 +1,8 @@
 INDEX VERSION 1.131+C:\Users\Kenny Yu\Desktop\Revature_Java_Class_Repo\ROCP1_Codes\.metadata\.plugins\org.eclipse.jdt.core
-3903750301.index
 3348037485.index
 1680537634.index
-1983145798.index
-3965066115.index
-1340754292.index
-115461101.index
-4235509034.index
-3223033147.index
-2025289538.index
-1551478744.index
-1524487255.index
-595774291.index
+4009311831.index
 2379301564.index
-38675814.index
 1359651578.index
-1789090492.index
-2432615257.index
-2115700418.index
-356000150.index
 1963614177.index
 1469787533.index
-2975139985.index
-1973443539.index
